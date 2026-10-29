@@ -15,7 +15,7 @@ Målet är att besegra fienderna och till slut möta slutbossen.
 3. Starta projektet genom att klicka på start eller trycka på F5.
 
 ### Teknisk rapport
-Öppna den tekniska rapporten(detförsvunnakungariket1.pdf).
+[Öppna den tekniska rapporten](detförsvunnakungariket1.pdf).
 
 ### Genomgång av koden och spelet
 https://youtu.be/kTsKG_hxMi4 
