@@ -606,6 +606,9 @@ if (choice == "1")
             Console.WriteLine($"Namn: {playerName}");
             Console.WriteLine($"Hälsa: {health}");
             Console.WriteLine($"Guldmynt: {gold}");
+
+            Console.WriteLine("\nTryck på valfri tangent för att återgå till menyn.");
+            Console.ReadKey(true);
         }
         else if( playerChoice == "3")
         {
