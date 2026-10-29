@@ -4,12 +4,18 @@ Det Försvunna Kungariket är ett textbaserat rollspel utvecklat i C# som körs 
 Spelaren kan utforska olika områden, slåss mot fiender, hitta skatter, samla guldmynt och köpa utrustning.
 Målet är att besegra fienderna och till slut möta slutbossen.
 
-## Teknisk rapport
-Den tekniska rapporten finns i PDF-format i detta repository.
-
 ## Teknik
 - C#
 - .NET
 - Visual Studio
 
-## Genomgång av koden + spelet
+### Hur man kör projektet
+1. Ladda ner eller klona repositoryt från GitHub.
+2. Öppna lösningsfilen DetFörsvunnaKungariket.slnx i Visual Studio.
+3. Starta projektet genom att klicka på start eller trycka på F5.
+
+### Teknisk rapport
+Öppna den tekniska rapporten(detförsvunnakungariket1.pdf).
+
+### Genomgång av koden och spelet
+https://youtu.be/kTsKG_hxMi4 
